@@ -1,7 +1,5 @@
 package CompositePattern;
 
-import java.util.List;
-
 public abstract class Figure {
     private Point point;
     private int epaisseur;
@@ -10,6 +8,7 @@ public abstract class Figure {
 
     public abstract double perimetre();
     public abstract double surface();
+
     public void dessiner(){
         System.out.println("____Epaisseur : "+getEpaisseur());
         System.out.println("____Couleur Contour : "+getCouleurContour());
