@@ -50,7 +50,7 @@ Dans cet exercice j'ai travaillé avec les design pattern ssuivants :<br>
 ## Classe Dessin
 ![image](https://user-images.githubusercontent.com/63150702/198733733-327902c1-b350-4f5f-a2bc-1457e880eaaf.png)
 <br><br>
-## 3. Effectuer des Tests du modèle.<br><br>
+## 3. Effectuer des Tests du modèle.
 <br><br>
 ## Application main
 ![image](https://user-images.githubusercontent.com/63150702/198733831-b9b77bd7-5930-4531-a9d7-7683e7923dad.png)
