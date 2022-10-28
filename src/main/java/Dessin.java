@@ -9,10 +9,7 @@ public class Dessin {
     private List<Figure> listFigures = new ArrayList<>();
     private Traitement traitement;
 
-    public Dessin(List<Figure> listFigures, Traitement traitement) {
-        this.listFigures = listFigures;
-        this.traitement = traitement;
-    }
+    public Dessin(){}
 
     public void traiter(){
         traitement.traiter(listFigures);
@@ -28,7 +25,7 @@ public class Dessin {
         listFigures.remove(figure);
     }
 
-    public void setTraitementStrategy(Traitement traitement) {
+    public void setTraitement(Traitement traitement) {
         this.traitement = traitement;
     }
 }
