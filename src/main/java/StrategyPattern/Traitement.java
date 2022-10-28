@@ -4,6 +4,6 @@ import CompositePattern.Figure;
 
 import java.util.List;
 
-public interface Dessin {
+public interface Traitement {
     void traiter(List<Figure> figures);
 }

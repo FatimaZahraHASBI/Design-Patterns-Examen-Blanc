@@ -4,7 +4,7 @@ import CompositePattern.Figure;
 
 import java.util.List;
 
-public class DessinImpl2 implements Dessin {
+public class TraitementImpl2 implements Traitement {
     @Override
     public void traiter(List<Figure> figures) {
         System.out.println("************************");
