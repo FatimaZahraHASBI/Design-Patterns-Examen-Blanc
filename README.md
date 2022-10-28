@@ -1,12 +1,12 @@
 # Design-Patterns-Examen-Blanc
-## 1.	Etablir un Diagramme de classe du modèle en appliquant les design patterns appropriés.<br>
+## 1.	Diagramme de classe du modèle en appliquant les design patterns appropriés.<br>
 Dans cet exercice j'ai travaillé avec les design pattern ssuivants :<br>
 &ensp; - Composite : une figure peut être soit un rectangles ou un cercles ou un groupe de figures <br>
 &ensp; - Observer : A chaque fois que l’état de l'objet paramètrage change, toutes les figures doivent être notifiées pour se mettre à jour. <br>
 &ensp; - Strategy : Pour le traitement des dessins, on veut qu'au moment de l'exécution l’objet dessin peut changer d’algorithme avec un autre de la même famille et chaque algorithme peut évoluer indépendamment de la classe dessin qui les utilise <br><br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198565486-31e50638-c26d-49b2-bab7-03379594fbfa.png)
 <br><br>
-## 2. Faire une implémentation du modèle en utilisant un projet Maven sans prendre en considération des aspects techniques.
+## 2. Implémentation du modèle en utilisant un projet Maven sans prendre en considération des aspects techniques.
 
 &ensp;&ensp;&nbsp;L’initialisation du projet : <br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198566163-a853ff89-19f2-4a34-a9fd-79ffa4610f9c.png)
