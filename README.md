@@ -16,42 +16,44 @@ Dans cet exercice j'ai travaillé avec les design pattern ssuivants :<br>
 <br><br>
 ## Classe Figure
 ![image](https://user-images.githubusercontent.com/63150702/198731563-0af2cd1d-7de1-4cee-93fa-7c9e12994112.png)
+<br><br>
 ## Classe Point 
-<br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198731670-a83b8b8d-5cf6-4f5e-9061-7bd3a84c7920.png)
+<br><br>
 ## Classe Rectangle
-<br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198732011-37799015-c342-431b-a693-0a6c84d08008.png)
+<br><br>
 ## Classe Cercle
-<br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198732302-abfb410f-cdac-4abe-a633-d3618cb92886.png)
+<br><br>
 ## Classe Groupe
-<br><br>![image](https://user-images.githubusercontent.com/63150702/198732815-f6738a7d-c9db-482e-af6c-f3bb2aaa4529.png)
+![image](https://user-images.githubusercontent.com/63150702/198732815-f6738a7d-c9db-482e-af6c-f3bb2aaa4529.png)
+<br><br>
 ## Interface Parametrage (le role de observable)
-<br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198732916-82662e78-fd9c-4c30-9196-19d128b6d3fc.png)
+<br><br>
 ## Classe ParamImpl (l'implémentation de l'interface Parametrage)
-<br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198733178-fb0a7670-bc3c-4b0a-a2f7-6209153c2236.png)
+<br><br>
 ## Interface Observer 
-<br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198733268-7c4f4455-3e92-4eae-9cb2-a775f96c8c18.png)
+<br><br>
 ## Interface Traitement
-<br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198733404-91ebbe50-e860-4962-b4de-ee0f9ad0e58a.png)
+<br><br>
 ## Classe TraitementImpl1
-<br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198733496-b89e52ad-4a6f-46e0-a063-d9253dbd4c6e.png)
+<br><br>
 ## Classe TraitementImpl2
-<br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198733557-5386ab7c-8e98-41f4-861f-d15697361f33.png)
+<br><br>
 ## Classe Dessin
-<br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198733733-327902c1-b350-4f5f-a2bc-1457e880eaaf.png)
+<br><br>
 ## 3. Effectuer des Tests du modèle.<br><br>
+<br><br>
 ## Application main
-<br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198733831-b9b77bd7-5930-4531-a9d7-7683e7923dad.png)
-## Résultat sur console
 <br><br>
+## Résultat sur console
 ![Screenshot (168)](https://user-images.githubusercontent.com/63150702/198735047-51c954af-6a8d-4278-860c-5a3878cba797.png)
