@@ -1,6 +1,5 @@
 import CompositePattern.Figure;
 import StrategyPattern.Traitement;
-import StrategyPattern.TraitementImpl1;
 
 import java.util.ArrayList;
 import java.util.List;

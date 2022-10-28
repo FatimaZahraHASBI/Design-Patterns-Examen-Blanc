@@ -23,16 +23,4 @@ public class Rectangle extends Figure {
         System.out.println("____Perimetre : "+perimetre());
         System.out.println("____Surface : "+surface());
     }
-    public int getH() {
-        return H;
-    }
-    public int getL() {
-        return L;
-    }
-    public void setH(int h) {
-        H = h;
-    }
-    public void setL(int l) {
-        L = l;
-    }
 }

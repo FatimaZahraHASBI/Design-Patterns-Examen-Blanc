@@ -32,6 +32,5 @@ public class Application {
 
         System.out.println("____________________ Le dessin ______________________");
         dessin.showAll();
-
     }
 }

@@ -3,20 +3,8 @@ package CompositePattern;
 public class Cercle extends Figure {
     private int R;
 
-    public Cercle() {
-        super();
-    }
-
     public Cercle(int epaisseur, int couleurContour, int couleurRemp, int r) {
         super(epaisseur, couleurContour, couleurRemp);
-        R = r;
-    }
-
-    public int getR() {
-        return R;
-    }
-
-    public void setR(int r) {
         R = r;
     }
 
@@ -37,6 +25,4 @@ public class Cercle extends Figure {
         System.out.println("____Perimetre : "+perimetre());
         System.out.println("____Surface : "+surface());
     }
-
-
 }
