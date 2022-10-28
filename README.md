@@ -8,4 +8,17 @@
 ![image](https://user-images.githubusercontent.com/63150702/198566163-a853ff89-19f2-4a34-a9fd-79ffa4610f9c.png)
 <br><br>&ensp;&ensp;&nbsp;L’architecture du projet : <br><br>
 ![image](https://user-images.githubusercontent.com/63150702/198566197-6ba5443d-2a82-4ae2-bd25-870b991b9fe2.png)
+<br><br>&ensp;&ensp;&nbsp;L'implémentation des classes : 
+<br><br>
+![image](https://user-images.githubusercontent.com/63150702/198574428-0064f8ae-1efc-4c8d-90e8-6ce8729cd021.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/63150702/198574540-c042417a-1060-4ffc-af05-acdc90e2aaff.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/63150702/198574832-cf1ca727-d0bb-40f0-bbf5-cf4509a250f9.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/63150702/198574972-ddda7335-ff06-448e-99bb-e390650f1cab.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/63150702/198575567-914471f6-87b9-4e3f-a354-ec88f3d86100.png)
+
+
 ## 3. Effectuer des Tests du modèle.
